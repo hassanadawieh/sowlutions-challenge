@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+.smoll-header {
+  height: 40vh;
+  background-image: url("https://i.pinimg.com/564x/28/50/e7/2850e755798516a7253085f1a411efa2.jpg");
+  background-size: cover;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
